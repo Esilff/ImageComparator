@@ -17,5 +17,6 @@
 	<classpathentry kind="lib" path="C:/Users/toula/Documents/IUT_Paris_Descartes/2A_2021_2022/IMAGE/M4105C/lib/lib/slf4j-api-1.7.25.jar"/>
 	<classpathentry kind="lib" path="C:/Users/toula/Documents/IUT_Paris_Descartes/2A_2021_2022/IMAGE/M4105C/lib/lib/slf4j-simple-1.7.25.jar"/>
 	<classpathentry kind="lib" path="C:/Users/toula/Documents/IUT_Paris_Descartes/2A_2021_2022/IMAGE/M4105C/lib/lib/webcam-capture-0.3.10.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
